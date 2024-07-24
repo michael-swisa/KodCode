@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\college_Management\bin\Debug\college_Management.exe.config
+C:\Users\Admin\source\repos\college_Management\bin\Debug\college_Management.exe
+C:\Users\Admin\source\repos\college_Management\bin\Debug\college_Management.pdb
+C:\Users\Admin\source\repos\college_Management\obj\Debug\college_Management.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\college_Management\obj\Debug\college_Management.Form1.resources
+C:\Users\Admin\source\repos\college_Management\obj\Debug\college_Management.Properties.Resources.resources
+C:\Users\Admin\source\repos\college_Management\obj\Debug\college_Management.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\college_Management\obj\Debug\college_Management.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\college_Management\obj\Debug\college_Management.exe
+C:\Users\Admin\source\repos\college_Management\obj\Debug\college_Management.pdb

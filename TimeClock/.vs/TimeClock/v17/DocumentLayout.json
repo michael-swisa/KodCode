@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_kodcode2\\TimeClock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|C:\\_kodcode2\\TimeClock\\sql\\update_password.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|solutionrelative:sql\\update_password.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|C:\\_kodcode2\\TimeClock\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|solutionrelative:changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|c:\\_kodcode2\\timeclock\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|solutionrelative:employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|C:\\_kodcode2\\TimeClock\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|C:\\_kodcode2\\TimeClock\\sql\\creating_tables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|solutionrelative:sql\\creating_tables.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|C:\\_kodcode2\\TimeClock\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|solutionrelative:changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|C:\\_kodcode2\\TimeClock\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|solutionrelative:dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|c:\\_kodcode2\\timeclock\\sql\\update_password.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{069A96EB-7F81-418E-AFFB-7B0E43E03B85}|TimeClock.csproj|solutionrelative:sql\\update_password.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update_password.sql ",
+              "DocumentMoniker": "C:\\_kodcode2\\TimeClock\\SQL\\Update_password.sql",
+              "RelativeDocumentMoniker": "SQL\\Update_password.sql",
+              "ToolTip": "C:\\_kodcode2\\TimeClock\\SQL\\Update_password.sql",
+              "RelativeToolTip": "SQL\\Update_password.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-14T12:50:34.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\_kodcode2\\TimeClock\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "EmployeeManager.cs",
+              "ToolTip": "C:\\_kodcode2\\TimeClock\\EmployeeManager.cs",
+              "RelativeToolTip": "EmployeeManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAawBYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:20:41.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "C:\\_kodcode2\\TimeClock\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "ChangePassword.cs",
+              "ToolTip": "C:\\_kodcode2\\TimeClock\\ChangePassword.cs",
+              "RelativeToolTip": "ChangePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:07:36.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\_kodcode2\\TimeClock\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\_kodcode2\\TimeClock\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:08:58.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\_kodcode2\\TimeClock\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DBConnection.cs",
+              "ToolTip": "C:\\_kodcode2\\TimeClock\\DBConnection.cs",
+              "RelativeToolTip": "DBConnection.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:41:50.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\_kodcode2\\TimeClock\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "ChangePassword.cs",
+              "ToolTip": "C:\\_kodcode2\\TimeClock\\ChangePassword.cs [Design]",
+              "RelativeToolTip": "ChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:33:41.515Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Creating_tables.sql",
+              "DocumentMoniker": "C:\\_kodcode2\\TimeClock\\SQL\\Creating_tables.sql",
+              "RelativeDocumentMoniker": "SQL\\Creating_tables.sql",
+              "ToolTip": "C:\\_kodcode2\\TimeClock\\SQL\\Creating_tables.sql",
+              "RelativeToolTip": "SQL\\Creating_tables.sql",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-14T06:46:26.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

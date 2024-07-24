@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\shabat\bin\Debug\shabat.exe.config
+C:\Users\Admin\source\repos\shabat\bin\Debug\shabat.exe
+C:\Users\Admin\source\repos\shabat\bin\Debug\shabat.pdb
+C:\Users\Admin\source\repos\shabat\obj\Debug\shabat.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\shabat\obj\Debug\shabat.Form1.resources
+C:\Users\Admin\source\repos\shabat\obj\Debug\shabat.Properties.Resources.resources
+C:\Users\Admin\source\repos\shabat\obj\Debug\shabat.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\shabat\obj\Debug\shabat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\shabat\obj\Debug\shabat.exe
+C:\Users\Admin\source\repos\shabat\obj\Debug\shabat.pdb

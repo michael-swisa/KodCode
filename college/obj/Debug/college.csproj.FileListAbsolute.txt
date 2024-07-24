@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\college\bin\Debug\college.exe.config
+C:\Users\Admin\source\repos\college\bin\Debug\college.exe
+C:\Users\Admin\source\repos\college\bin\Debug\college.pdb
+C:\Users\Admin\source\repos\college\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\college\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\college\obj\Debug\college.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\college\obj\Debug\college.Form1.resources
+C:\Users\Admin\source\repos\college\obj\Debug\college.Properties.Resources.resources
+C:\Users\Admin\source\repos\college\obj\Debug\college.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\college\obj\Debug\college.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\college\obj\Debug\college.csproj.Up2Date
+C:\Users\Admin\source\repos\college\obj\Debug\college.exe
+C:\Users\Admin\source\repos\college\obj\Debug\college.pdb

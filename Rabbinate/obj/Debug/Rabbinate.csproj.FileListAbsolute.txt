@@ -1,0 +1,10 @@
+C:\_kodcode2\Rabbinate\bin\Debug\Rabbinate.exe.config
+C:\_kodcode2\Rabbinate\bin\Debug\Rabbinate.exe
+C:\_kodcode2\Rabbinate\bin\Debug\Rabbinate.pdb
+C:\_kodcode2\Rabbinate\obj\Debug\Rabbinate.csproj.AssemblyReference.cache
+C:\_kodcode2\Rabbinate\obj\Debug\Rabbinate.Form1.resources
+C:\_kodcode2\Rabbinate\obj\Debug\Rabbinate.Properties.Resources.resources
+C:\_kodcode2\Rabbinate\obj\Debug\Rabbinate.csproj.GenerateResource.cache
+C:\_kodcode2\Rabbinate\obj\Debug\Rabbinate.csproj.CoreCompileInputs.cache
+C:\_kodcode2\Rabbinate\obj\Debug\Rabbinate.exe
+C:\_kodcode2\Rabbinate\obj\Debug\Rabbinate.pdb

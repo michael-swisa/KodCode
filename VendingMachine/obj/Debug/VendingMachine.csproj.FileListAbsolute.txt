@@ -1,0 +1,10 @@
+C:\_kodcode2\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\_kodcode2\VendingMachine\bin\Debug\VendingMachine.exe
+C:\_kodcode2\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\_kodcode2\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\_kodcode2\VendingMachine\obj\Debug\VendingMachine.Form1.resources
+C:\_kodcode2\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+C:\_kodcode2\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\_kodcode2\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\_kodcode2\VendingMachine\obj\Debug\VendingMachine.exe
+C:\_kodcode2\VendingMachine\obj\Debug\VendingMachine.pdb

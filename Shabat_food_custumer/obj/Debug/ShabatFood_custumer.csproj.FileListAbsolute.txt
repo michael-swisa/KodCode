@@ -1,0 +1,11 @@
+C:\_kodcode2\ShabatFood\bin\Debug\ShabatFood.exe.config
+C:\_kodcode2\ShabatFood\bin\Debug\ShabatFood.exe
+C:\_kodcode2\ShabatFood\bin\Debug\ShabatFood.pdb
+C:\_kodcode2\ShabatFood\obj\Debug\ShabatFood_custumer.csproj.AssemblyReference.cache
+C:\_kodcode2\ShabatFood\obj\Debug\ShabatFood.custumer_enter.resources
+C:\_kodcode2\ShabatFood\obj\Debug\ShabatFood.Form1.resources
+C:\_kodcode2\ShabatFood\obj\Debug\ShabatFood.Properties.Resources.resources
+C:\_kodcode2\ShabatFood\obj\Debug\ShabatFood_custumer.csproj.GenerateResource.cache
+C:\_kodcode2\ShabatFood\obj\Debug\ShabatFood_custumer.csproj.CoreCompileInputs.cache
+C:\_kodcode2\ShabatFood\obj\Debug\ShabatFood.exe
+C:\_kodcode2\ShabatFood\obj\Debug\ShabatFood.pdb

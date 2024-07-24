@@ -1,0 +1,6 @@
+C:\_kodcode2\practic2\obj\Debug\net8.0\practic2.Properties.Resources.resources
+C:\_kodcode2\practic2\obj\Debug\net8.0\practic2.csproj.GenerateResource.cache
+C:\_kodcode2\practic2\obj\Debug\net8.0\practic2.GeneratedMSBuildEditorConfig.editorconfig
+C:\_kodcode2\practic2\obj\Debug\net8.0\practic2.AssemblyInfoInputs.cache
+C:\_kodcode2\practic2\obj\Debug\net8.0\practic2.AssemblyInfo.cs
+C:\_kodcode2\practic2\obj\Debug\net8.0\practic2.csproj.CoreCompileInputs.cache
