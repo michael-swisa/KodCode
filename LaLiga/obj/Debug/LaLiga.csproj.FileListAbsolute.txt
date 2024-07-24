@@ -1,9 +1,0 @@
-C:\_kodcode2\LaLiga\bin\Debug\LaLiga.exe.config
-C:\_kodcode2\LaLiga\bin\Debug\LaLiga.exe
-C:\_kodcode2\LaLiga\bin\Debug\LaLiga.pdb
-C:\_kodcode2\LaLiga\obj\Debug\LaLiga.csproj.AssemblyReference.cache
-C:\_kodcode2\LaLiga\obj\Debug\LaLiga.Properties.Resources.resources
-C:\_kodcode2\LaLiga\obj\Debug\LaLiga.csproj.GenerateResource.cache
-C:\_kodcode2\LaLiga\obj\Debug\LaLiga.csproj.CoreCompileInputs.cache
-C:\_kodcode2\LaLiga\obj\Debug\LaLiga.exe
-C:\_kodcode2\LaLiga\obj\Debug\LaLiga.pdb
